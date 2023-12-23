@@ -1,0 +1,26 @@
+site_name: McKinleyCode
+docs_dir: docs
+site_dir: site
+nav:
+    - Home: 'index.md'
+    - 'Technology Projects':
+        - 'Automating rare Pokémon searching with Python': 'tech-projects/poketools.md'
+    - 'Publications':
+        - 'Splatoon 3 review': 'publications/splatoon-3-review.md'
+    - 'Software and services used': 'implemented_software.md'
+    - 'Issues': 'issues.md'
+site_author: Craig McKinley
+site_description: The portfolio of Craig McKinley
+
+theme:
+    name: material
+    logo: assets/images/logo.svg
+    favicon: assets/images/logo.svg
+    palette:
+        scheme: slate
+        primary: green
+    locale: en
+    custom_dir: overrides
+extra:
+    article_nav_top: false
+    article_nav_bottom: false
