@@ -1,5 +1,8 @@
+# Modified from a merging of GitHub Pages' template for static HTML,
+# and the CI/CD guide from Material MkDocs (https://squidfunk.github.io/mkdocs-material/publishing-your-site/)
+
 name: ci/cd
-# A merging of GitHub Pages' setup for static HTML, and the guide from Material MkDocs
+
 on:
   # Runs on pushes targeting the default branch
   push:
