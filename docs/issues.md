@@ -4,7 +4,7 @@ description: Information on where to submit issues for the McKinleyCode website
 # Does this site have an issue?
 Here's what I ask you to do:
 
-First, see if the issue you've encountered is already listed in [the issues page on GitHub](https://github.com/cdmckinley/cdmckinley/issues).
+First, see if the issue you've encountered is already listed in [the issues page on GitHub](https://github.com/cdmckinley/mckinleycode/issues).
 
 If so, but you notice some information is missing, please leave a comment on that issue.
 
