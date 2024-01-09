@@ -1,6 +1,6 @@
 # Welcome to the reposirtory for the McKinleyCode website 👋
 
-Looking for the website itself? It can be found at [mckinleycode.com].
+Looking for the website itself? It can be found at https://mckinleycode.com.
 
 ## Technologies and resources used
 
