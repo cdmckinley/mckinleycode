@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false # Comment implementationmay change from GitHub Discussions to BlueSky???
 description: My Python-learning journey for automating the finding of a Pokémon
 ---
 # Automating rare Pokémon searching with Python
